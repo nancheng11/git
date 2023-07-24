@@ -2,3 +2,7 @@
 #设置提交代码时的用户信息
 git config [--global] user.name "[name]"
 git config [--global] user.email "[email address]"
+添加当前目录的所有文件到暂存区 git add .
+查询状态 git status
+提交文件 git commit -m 名字
+查询版本历史  git log
