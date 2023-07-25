@@ -6,3 +6,10 @@ git config [--global] user.email "[email address]"
 查询状态 git status
 提交文件 git commit -m 名字
 查询版本历史  git log
+
+git branch  查看所有分支
+git branch 分支名  创建分支
+git chenkout 分支名  切换到目标分支
+git switch 分支名  切换到目标分支
+git branch -d 分支名  删除分支
+git cherry-pick 分支名  合并
